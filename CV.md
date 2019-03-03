@@ -31,4 +31,4 @@ My first user interface development experience was in 2004. I created my first w
 * **Search Engine Optimization Courses** (ARTOX media).
 
 ## ENGLISH LEVEL
-At the moment I am learning English on my own using online services. At the moment, my level of knowledge is estimated as Pre-Intermediate. I plan to go on courses to strengthen conversational skills.
+At the moment I am learning English on my own using online services. My level of knowledge is estimated as Pre-Intermediate. I plan to go on courses to strengthen conversational skills.
