@@ -9,10 +9,10 @@
 ## SUMMARY
 I want to develop my skills in developing user interfaces. At the moment I want to join the team of people with whom I can achieve my goals by participating in the development of interesting projects and solutions.
 Although I do not have experience in companies that develop UI. I have a lot of experience that will allow me to become a good developer:
-- **I understand** the importance of UI and UX for developing successful solutions;
-- **I understand** the importance of a good code style for working in a team;
-- **I understand** and can explain why this or that decision will be useful for a business;
-- **I understand** the importance of the balance between modern and reliable technologies.
+* **I understand** the importance of UI and UX for developing successful solutions;
+* **I understand** the importance of a good code style for working in a team;
+* **I understand** and can explain why this or that decision will be useful for a business;
+* **I understand** the importance of the balance between modern and reliable technologies.
 
 ## SKILLS
 <div align="center">
