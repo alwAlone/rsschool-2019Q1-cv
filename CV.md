@@ -10,11 +10,9 @@
 
 
 ## SKILLS
-<div style="display: flex; justify-content: space-between; margin-bottom: 30px;">
-   <img src="./images/html5.svg" alt="HTML5" height="100"> <img src="./images/css3.svg" alt="CSS3" height="100"> <img src="./images/sass.svg" alt="SASS(SCSS)" height="100"> <img src="./images/javascript.svg" alt="JavaScript" height="100"> <img src="./images/bem.svg" alt="SASS(SCSS)" height="100"> <img src="./images/git.svg" alt="GIT" height="100">
-</div>
+<img src="./images/html5.svg" alt="HTML5" width="130"> <img src="./images/css3.svg" alt="CSS3" width="150" height="100"> <img src="./images/sass.svg" alt="SASS(SCSS)" width="130"> <img src="./images/javascript.svg" alt="JavaScript" width="130"> <img src="./images/bem.svg" alt="SASS(SCSS)" width="130"> <img src="./images/git.svg" alt="GIT" width="130">
 
-<p style="text-align: center;">Code samples can be viewed at <a href="https://github.com/alwAlone">GitHub</a>.</p>
+Code samples can be viewed at [GitHub](https://github.com/alwAlone).
 
 ## EXPERIENCE
 My first user interface development experience was in 2004. I created my first website. At that time, it was a set of static HTML pages. From 2010 to 2015 I developed, supported and promoted websites. I am a certified SEO specialist. I have experience in sales and negotiations. From 2016 I teach HTML and CSS in the course on FRONTEND.
