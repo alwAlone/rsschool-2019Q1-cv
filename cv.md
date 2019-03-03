@@ -24,7 +24,7 @@ Although I do not have experience in companies that develop UI. I have a lot of 
 </div>
    <p align="center">
    Code samples can be viewed at <a href="https://github.com/alwAlone">GitHub</a>.
-<p>
+</p>
 
 ## EXPERIENCE
 
