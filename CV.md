@@ -7,7 +7,12 @@
 * **GitHub:** [link](https://github.com/alwAlone)
 
 ## SUMMARY
-
+I want to develop my skills in developing user interfaces. At the moment I want to join the team of people with whom I can achieve my goals by participating in the development of interesting projects and solutions.
+Although I do not have experience in companies that develop UI. I have a lot of experience that will allow me to become a good developer:
+- **I understand** the importance of UI and UX for developing successful solutions;
+- **I understand** the importance of a good code style for working in a team;
+- **I understand** and can explain why this or that decision will be useful for a business;
+- **I understand** the importance of the balance between modern and reliable technologies.
 
 ## SKILLS
 <div align="center">
@@ -21,11 +26,9 @@
 My first user interface development experience was in 2004. I created my first website. At that time, it was a set of static HTML pages. From 2010 to 2015 I developed, supported and promoted websites. I am a certified SEO specialist. I have experience in sales and negotiations. From 2016 I teach HTML and CSS in the course on FRONTEND.
 
 ## EDUCATION
-
 * **Minsk State Vocational and Technical College of Electronics** (in the specialty "Software Information Technology");
 * **Institute of Information Technologies Belarusian State University of Informatics and Radioelectronics** (in the specialty "Economics of e-business");
 * **Search Engine Optimization Courses** (ARTOX media).
 
 ## ENGLISH LEVEL
-
 At the moment I am learning English on my own using online services. At the moment, my level of knowledge is estimated as Pre-Intermediate. I plan to go on courses to strengthen conversational skills.
