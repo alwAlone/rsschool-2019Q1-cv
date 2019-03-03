@@ -10,12 +10,12 @@
 
 
 ## SKILLS
-* **HTML**
-* **CSS**
-* **SASS(SCSS)**
-* **JavaScript**
-* **BEM**
-* **GIT**  
+<img src="./images/html5.svg" alt="HTML5" width="150" height="100" />
+<img src="./images/css3.svg" alt="CSS3" width="150" height="100" />
+<img src="./images/sass.svg" alt="SASS(SCSS)" width="150" height="100" />
+<img src="./images/javascript.svg" alt="JavaScript" width="150" height="100" />
+<img src="./images/bem.svg" alt="SASS(SCSS)" width="150" height="100" />
+<img src="./images/git.svg" alt="GIT" width="150" height="100" />
 
 Code samples can be viewed at [GitHub](https://github.com/alwAlone).
 
