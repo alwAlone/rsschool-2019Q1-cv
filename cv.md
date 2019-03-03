@@ -22,7 +22,7 @@ Although I do not have experience in companies that develop UI. I have a lot of 
 <div align="center">
    <img src="./images/html5.svg" alt="HTML5" height="100"> <img src="./images/css3.svg" alt="CSS3" height="100"> <img src="./images/sass.svg" alt="SASS(SCSS)" height="100"> <img src="./images/javascript.svg" alt="JavaScript" height="100"> <img src="./images/bem.svg" alt="SASS(SCSS)" height="100"> <img src="./images/git.svg" alt="GIT" height="100">
 </div>
-   <p align="center">
+<p align="center">
    Code samples can be viewed at <a href="https://github.com/alwAlone">GitHub</a>.
 </p>
 
