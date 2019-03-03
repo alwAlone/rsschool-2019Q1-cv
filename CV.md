@@ -25,5 +25,9 @@ My first user interface development experience was in 2004. I created my first w
 ## EDUCATION
 
 * **Minsk State Vocational and Technical College of Electronics** (in the specialty "Software Information Technology");
-* **Institute of Information Technologies Belarusian State University of Informatics and Radioelectronics** (in the specialty "Economics of e-business")
-* **Search Engine Optimization Courses** (ARTOX media)
+* **Institute of Information Technologies Belarusian State University of Informatics and Radioelectronics** (in the specialty "Economics of e-business");
+* **Search Engine Optimization Courses** (ARTOX media).
+
+## English level
+
+At the moment I am learning English on my own using online services. At the moment, my level of knowledge is estimated as Pre-Intermediate. I plan to go on courses to strengthen conversational skills.
