@@ -26,6 +26,6 @@ My first user interface development experience was in 2004. I created my first w
 * **Institute of Information Technologies Belarusian State University of Informatics and Radioelectronics** (in the specialty "Economics of e-business");
 * **Search Engine Optimization Courses** (ARTOX media).
 
-## English level
+## ENGLISH LEVEL
 
 At the moment I am learning English on my own using online services. At the moment, my level of knowledge is estimated as Pre-Intermediate. I plan to go on courses to strengthen conversational skills.
