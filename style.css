@@ -134,7 +134,7 @@ a {
 
 @media (max-width: 1024px) {
    .resume {
-      padding: 0 1eW
+      padding: 0 1em;
    }
    .photo {
       width: 100%;
