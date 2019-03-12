@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 :root {
    --first-color: #222831;
-   --secont-color: #393E46;
+   --second-color: #393E46;
    --third-color: #FD7013;
    --fourth-color: #EEEEEE;
    font-family: 'Indie Flower', cursive;
@@ -36,13 +36,14 @@ a {
    align-items: flex-end;
    justify-content: flex-start;
    max-width: 1024px;
-   min-width: 500px;
    margin: 0 auto;
 }
 .photo {
    position: relative;
    display: block;
+   box-sizing: border-box;
    width: 40%;
+   border: 10px solid white;
    order: 2;
 }
 .contacts {
@@ -157,10 +158,25 @@ a {
    :root {
       text-align: justify;
    }
+   h1 {
+      font-size: 2em;
+   }
    h2 {
       text-align: center;
+   }
+   .photo {
+      box-shadow: none;
    }
    .skills__items {
       padding: 0;
    }
+<<<<<<< HEAD
+   li {
+      margin-bottom: 1em;
+   }
+   li>b {
+      display: block;
+   }
+=======
+>>>>>>> fa324a34c40eddc4967e34fcae4e5755064d8790
 }
