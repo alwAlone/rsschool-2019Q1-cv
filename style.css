@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+:root {
+   --first-color: #222831;
+   --secont-color: #393E46;
+   --third-color: #FD7013;
+   --fourth-color: #EEEEEE;
+   font-family: 'Indie Flower', cursive;
+   font-size: 25px;
+   color: var(--first-color);
+   background-color: #EEE;
+}
+body {
+   margin: 0;
+}
+h1 {
+   margin: 0;
+   font-size: 3em;
+   color: var(--fourth-color);
+   text-align: center;
+}
+h2 {
+   text-transform: uppercase;
+}
+a {
+   color: var(--third-color);
+}
+.header {
+   padding: 10px 0;
+   background-color: var(--third-color);  
+}
+.resume {
+   max-width: 1024px;
+   margin: 0 auto;
+}
+.contacts ul,
+.summary ul,
+.education ul {
+   list-style: none;
+}
+.contacts li,
+.summary li,
+.education li {
+   position: relative;
+}
+.contacts li::before,
+.summary li::before,
+.education li::before
+ {
+   content: '';
+   position: absolute;
+   top: 7px;
+   left: -30px;
+   display: block;
+   width: 20px;
+   height: 20px;
+   background-size: cover;
+}
+.contact_address::before {
+   background-image: url(./images/icons/address.svg);
+}
+.contact_email::before {
+   background-image: url(./images/icons/email.svg);
+}
+.contact_phone::before {
+   background-image: url(./images/icons/phone.svg);
+}
+.contact_linkedin::before {
+   background-image: url(./images/icons/linkedin.svg);
+}
+.contact_github::before {
+   background-image: url(./images/icons/github.svg);
+}
+.summary li::before {
+   background-image: url(./images/icons/checked.svg);
+}
+.skills {
+   display: flex;
+   flex-wrap: wrap;
+}
+.skills h2 {
+   width: 100%;
+}
+.skills img {
+   display: block;
+   height: 100px;
+   margin-right: .5em;
+}
+.education li::before {
+   background-image: url(./images/icons/knowledge.svg);
+}
+.footer {
+   padding: 10px 0;
+   background-color: var(--first-color);
+   color: var(--fourth-color);
+   text-align: center;
+}
