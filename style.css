@@ -19,10 +19,7 @@ h1 {
    text-align: center;
 }
 h2 {
-<<<<<<< HEAD
    margin: 0;
-=======
->>>>>>> 068064c4023067cd1f21d9d0151dfb0ce767f024
    text-transform: uppercase;
 }
 a {
@@ -30,7 +27,6 @@ a {
 }
 .header {
    padding: 10px 0;
-<<<<<<< HEAD
    background-color: var(--third-color);
    margin-bottom: 1em;
 }
@@ -53,14 +49,6 @@ a {
    width: 50%;
    order: 1;
 }
-=======
-   background-color: var(--third-color);  
-}
-.resume {
-   max-width: 1024px;
-   margin: 0 auto;
-}
->>>>>>> 068064c4023067cd1f21d9d0151dfb0ce767f024
 .contacts ul,
 .summary ul,
 .education ul {
@@ -99,27 +87,18 @@ a {
 .contact_github::before {
    background-image: url(./images/icons/github.svg);
 }
-<<<<<<< HEAD
 .summary {
    order: 3;
 }
-=======
->>>>>>> 068064c4023067cd1f21d9d0151dfb0ce767f024
 .summary li::before {
    background-image: url(./images/icons/checked.svg);
 }
 .skills {
-<<<<<<< HEAD
    order: 4;
-=======
-   display: flex;
-   flex-wrap: wrap;
->>>>>>> 068064c4023067cd1f21d9d0151dfb0ce767f024
 }
 .skills h2 {
    width: 100%;
 }
-<<<<<<< HEAD
 .skills p {
    text-align: center;
 }
@@ -129,14 +108,10 @@ a {
    justify-content: center;
 }
 .skills__items img {
-=======
-.skills img {
->>>>>>> 068064c4023067cd1f21d9d0151dfb0ce767f024
    display: block;
    height: 100px;
    margin-right: .5em;
 }
-<<<<<<< HEAD
 .experience {
    order: 5;
 }
@@ -149,17 +124,11 @@ a {
 .english-level {
    order: 7;
 }
-=======
-.education li::before {
-   background-image: url(./images/icons/knowledge.svg);
-}
->>>>>>> 068064c4023067cd1f21d9d0151dfb0ce767f024
 .footer {
    padding: 10px 0;
    background-color: var(--first-color);
    color: var(--fourth-color);
    text-align: center;
-<<<<<<< HEAD
 }
 
 @media (max-width: 1024px) {
@@ -194,6 +163,4 @@ a {
    .skills__items {
       padding: 0;
    }
-=======
->>>>>>> 068064c4023067cd1f21d9d0151dfb0ce767f024
 }
